@@ -1,5 +1,4 @@
-O nosso site visa ajudar novos alunos dentro da area de TI com alguns
-texto e links para videos sobrea algumas das partes mais interessantes
-o nosso site e bem simples basta arrastar para baixo e cricar no botão referente ao video desejado
-então voce sera levado para um link do youtube referenta a aquele topico.
+O nosso site visa ajudar novos alunos dentro da área de TI com alguns texto e links para vídeos sobre algumas das partes 
+mais interessantes o nosso site e bem simples basta arrastar para baixo e clicar no botão referente ao vídeo desejado e
+então você será levado para uma playlist do YouTube referente àquele tópico. 
 Integrantes: Fernando de Carvalho, Gabriel Couto, Gustavo Pujoni, João Bernardo, Julio César.
